@@ -37,3 +37,15 @@ The repository is organized as follows:
    ```bash
    git clone https://github.com/YourUsername/CM-PHI.git
    cd CM-PHI
+
+pip install -r requirements.txt
+python similarity_calculation.py
+python gcnn_module.py
+
+
+@article{YourArticle,
+  title={A Multi-Component Framework for Predicting Phage-Host Interactions Combining Graph Neural Networks and Sequence Features},
+  author={Jie Pan, et al.},
+  journal={Your Journal},
+  year={2024}
+}
