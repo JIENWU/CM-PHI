@@ -4,7 +4,7 @@ This repository contains the implementation of **CM-PHI**, a computational model
 
 ---
 
-
+![cm-phi](https://github.com/JIENWU/CM-PHI/blob/master/workflow.png)
 
 ## **Project Overview**
 
