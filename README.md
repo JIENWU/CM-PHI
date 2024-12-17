@@ -38,9 +38,13 @@ The repository is organized as follows:
    git clone https://github.com/YourUsername/CM-PHI.git
    cd CM-PHI
 
-@article{YourArticle,
+@article{YourArticle, 
+
   title={A Multi-Component Framework for Predicting Phage-Host Interactions Combining Graph Neural Networks and Sequence Features},
+  
   author={Jie Pan, et al.},
+  
   journal={Your Journal},
+  
   year={2024}
 }
