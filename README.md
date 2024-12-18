@@ -1,6 +1,6 @@
 # **CM-PHI: A Multi-Component Framework for Predicting Phage-Host Interactions**
 
-This repository contains the implementation of **CM-PHI**, a computational model for predicting phage-host interactions (PHI). CM-PHI integrates graph-based and sequence-based features using multi-hop attention graph neural networks, gated convolutional networks, and self-attention mechanisms.
+This repository contains the implementation of **CM-PHI**, a computational model for predicting phage-host interactions (PHI). CM-PHI integrates sequence-level and topology-based features using multi-hop attention graph neural networks, gated convolutional networks, and self-attention mechanisms.
 
 ---
 
