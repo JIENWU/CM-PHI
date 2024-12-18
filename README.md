@@ -37,7 +37,7 @@ The repository is organized as follows:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/YourUsername/CM-PHI.git
+   git clone (https://github.com/JIENWU/CM-PHI)
    cd CM-PHI
 
 @article{YourArticle, 
